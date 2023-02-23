@@ -12,3 +12,4 @@
 !utils/mot/*.py
 !data
 !data/*
+!utils/mot/yolov8_tracking

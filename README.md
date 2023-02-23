@@ -13,6 +13,7 @@ You can alternatively provide the path to a video or a URL of an ESP32-Cam webse
 You can set up a conda environment using the following command:
 ```
 git clone --recurse-submodules https://github.com/Kastouri/See-With-Your-Ears.git  # clone recursively
+git submodule update --init --recursive
 cd see_with_your_ears
 conda env create -f environment.yml
 ```
