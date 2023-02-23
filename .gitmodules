@@ -1,0 +1,3 @@
+[submodule "yolov8_tracking"]
+	path = utils/mot
+	url = https://github.com/mikel-brostrom/yolov8_tracking.git

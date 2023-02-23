@@ -1,0 +1,14 @@
+*
+!run_alternativ_vision.py
+!README.md
+!.gitignore
+!.gitmodules
+!utils/
+!utils/audio
+!utils/audio/*.py
+!utils/camera_calibration
+!utils/camera_calibration/*.py
+!utils/mot
+!utils/mot/*.py
+!data
+!data/*
