@@ -3,7 +3,7 @@
 This project implements a binaural (3D) sound synthesis engine that allows a visually impaired person to "see" 
 their environment by using sound localization.
 
-A more thorough documentation (WIP) can be found in my website. 
+A [more thorough documentation](https://kastouri.github.io/see_with_ear.html) (WIP) can be found in my website. 
 
 # Try it!
 All you need to try this tool is a stereo enabled headset and a laptop camera.
