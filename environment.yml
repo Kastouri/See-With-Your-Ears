@@ -1,4 +1,4 @@
-name: null
+name: swe
 channels:
   - defaults
 dependencies:
