@@ -23,6 +23,7 @@ In order to run the alternative vision engine using you laptop camera use the fo
 Make sure you use a headset with stereo audio enable in order to get a feeling for 
 the 3D sound effect.
 ```
+conda activate swe
 python run_alternative_vision.py --video-source=0
 ```
 
