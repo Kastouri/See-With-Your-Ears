@@ -10,7 +10,7 @@ All you need to try this tool is a stereo enabled headset and a laptop camera.
 You can alternatively provide the path to a video or a URL of an ESP32-Cam webserver.
 
 ## How to install
-You can set up a conda environment using the following command:
+You can clone this repository and set up a conda environment using the following commands:
 ```
 git clone --recurse-submodules https://github.com/Kastouri/See-With-Your-Ears.git  # clone recursively
 cd see_with_your_ears
