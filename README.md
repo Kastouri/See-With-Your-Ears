@@ -26,6 +26,8 @@ the 3D sound effect.
 conda activate swe
 python run_alternative_vision.py --video-source=0
 ```
+For this demo you will need a cup which you can hold in front of your camera. You will hear a ticking sound when the cup is detected.
+Move the cup to the left, right, up and down to notice the binaural sound effect.
 
 ## Notes:
 - The synthesised sound doesn't reflect the correct field of view of the camera of most laptops. A wider field of view 
